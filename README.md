@@ -1,5 +1,7 @@
 
-#### TESTBUILDER: this in an exercise/assigment I completed as a Hack Reactor SSP student.  In this exercise, I use JavaScript, Mocha and Chai
+#### TESTBUILDER:
+
+#### this was an exercise/assigment I completed as a Hack Reactor SSP student.  In this exercise, I use JavaScript, Mocha and Chai
 
 ### foo
 
